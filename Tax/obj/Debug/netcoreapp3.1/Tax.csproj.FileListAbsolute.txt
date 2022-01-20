@@ -1,0 +1,14 @@
+C:\Users\Vinicius\source\repos\Tax\Tax\bin\Debug\netcoreapp3.1\Tax.exe
+C:\Users\Vinicius\source\repos\Tax\Tax\bin\Debug\netcoreapp3.1\Tax.deps.json
+C:\Users\Vinicius\source\repos\Tax\Tax\bin\Debug\netcoreapp3.1\Tax.runtimeconfig.json
+C:\Users\Vinicius\source\repos\Tax\Tax\bin\Debug\netcoreapp3.1\Tax.runtimeconfig.dev.json
+C:\Users\Vinicius\source\repos\Tax\Tax\bin\Debug\netcoreapp3.1\Tax.dll
+C:\Users\Vinicius\source\repos\Tax\Tax\bin\Debug\netcoreapp3.1\Tax.pdb
+C:\Users\Vinicius\source\repos\Tax\Tax\obj\Debug\netcoreapp3.1\Tax.csproj.AssemblyReference.cache
+C:\Users\Vinicius\source\repos\Tax\Tax\obj\Debug\netcoreapp3.1\Tax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\source\repos\Tax\Tax\obj\Debug\netcoreapp3.1\Tax.AssemblyInfoInputs.cache
+C:\Users\Vinicius\source\repos\Tax\Tax\obj\Debug\netcoreapp3.1\Tax.AssemblyInfo.cs
+C:\Users\Vinicius\source\repos\Tax\Tax\obj\Debug\netcoreapp3.1\Tax.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\source\repos\Tax\Tax\obj\Debug\netcoreapp3.1\Tax.dll
+C:\Users\Vinicius\source\repos\Tax\Tax\obj\Debug\netcoreapp3.1\Tax.pdb
+C:\Users\Vinicius\source\repos\Tax\Tax\obj\Debug\netcoreapp3.1\Tax.genruntimeconfig.cache
